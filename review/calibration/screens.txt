@@ -1,0 +1,4 @@
+# The calibration screen. Run capture.mjs from the review folder:
+#   node capture.mjs --screens calibration/screens.txt --out calibration/captures
+# The path below is relative to the review folder when Chrome resolves it; use the absolute file:// path if it does not load.
+team-spend	file:///C:/Users/Krithik/cost-tracker-handoff/design/review/calibration/calibration.html

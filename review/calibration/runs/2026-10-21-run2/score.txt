@@ -1,0 +1,18 @@
+wrote calibration/findings\REPORT-findings.md - 384 rows from 6 files
+Calibration: 15 of 15 planted faults found; 0 false alarms on 6 decoys.
+  found   F1 by lens 1,2,3,4,5,6: One figure ($3,412.60, with $4,800 and 71.1%) shown in five places: alert, alert sub-line, tile, Util tile foot, chart heading
+  found   F2 by lens 1,2,3,4,5,6: A seven-slice donut of model shares beside a table of the same shares
+  found   F3 by lens 1,2,3,4,5,6: Bar chart baseline at $60, not zero
+  found   F4 by lens 2,6: Gradient fills, drop shadows and nine gridlines on the bars
+  found   F5 by lens 1,2,3,4,5,6: A sparkline of a constant (flat line) in the Headroom tile
+  found   F6 by lens 1,2,3,4,5,6: A how-to-read paragraph under the chart
+  found   F7 by lens 1,2,3,4,5,6: Red used for the Export CSV link while red means breached in the table
+  found   F8 by lens 1,2,3,4,5,6: 9 px footnote at 1.9:1 contrast
+  found   F9 by lens 1,2,3,5,6: A Currency column reading USD in every row
+  found   F10 by lens 1,2,3,4,5,6: Jargon labels: Fcst Δ vs EOM, Util%, MTD
+  found   F11 by lens 1,2,3,4,5,6: Last updated 'recently', no date or time
+  found   F12 by lens 1,2,3,4,6: An Insights strip of four icons carrying no data
+  found   F13 by lens 1,2,3,6: Content held to 960 px with the right third of the page empty while the tiles are cramped
+  found   F14 by lens 2,4: Shares in the members table sum to 100.9%
+  found   F15 by lens 1,3,6: A Submit button with no object
+PASS (needs at least 11 found and at most 1 false alarms)

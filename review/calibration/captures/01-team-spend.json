@@ -1,0 +1,1798 @@
+{
+ "title": "Charon · Team spend",
+ "url": "file:///C:/Users/Krithik/cost-tracker-handoff/design/review/calibration/calibration.html",
+ "viewport": {
+  "w": 1440,
+  "h": 1343
+ },
+ "page": {
+  "w": 1440,
+  "h": 1343
+ },
+ "elements": [
+  {
+   "id": 1,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 24,
+    "y": 14,
+    "w": 65,
+    "h": 29
+   },
+   "font": {
+    "size": 20,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#366092",
+   "bg": "#ffffff",
+   "contrast": 6.5,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Charon",
+   "chars": 6,
+   "overflow": false
+  },
+  {
+   "id": 2,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 1363,
+    "y": 21,
+    "w": 53,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "NOMURA",
+   "chars": 6,
+   "overflow": false
+  },
+  {
+   "id": 3,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 24,
+    "y": 70,
+    "w": 75,
+    "h": 20
+   },
+   "font": {
+    "size": 14,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Market Risk",
+   "chars": 11,
+   "overflow": false
+  },
+  {
+   "id": 4,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 1242,
+    "y": 70,
+    "w": 174,
+    "h": 20
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Last updated recently · Priya Nair",
+   "chars": 34,
+   "overflow": false
+  },
+  {
+   "id": 5,
+   "role": "text",
+   "tag": "b",
+   "box": {
+    "x": 24,
+    "y": 115,
+    "w": 191,
+    "h": 20
+   },
+   "font": {
+    "size": 14,
+    "weight": "700",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#f9fafb",
+   "contrast": 17,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Risk",
+   "chars": 4,
+   "overflow": false
+  },
+  {
+   "id": 6,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 24,
+    "y": 138,
+    "w": 57,
+    "h": 15
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#f9fafb",
+   "contrast": 4.6,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Market Risk",
+   "chars": 11,
+   "overflow": false
+  },
+  {
+   "id": 7,
+   "role": "text",
+   "tag": "a",
+   "box": {
+    "x": 0,
+    "y": 167,
+    "w": 239,
+    "h": 35
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#f9fafb",
+   "contrast": 9.9,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Overview",
+   "chars": 8,
+   "overflow": false
+  },
+  {
+   "id": 8,
+   "role": "text",
+   "tag": "a",
+   "box": {
+    "x": 0,
+    "y": 202,
+    "w": 239,
+    "h": 35
+   },
+   "font": {
+    "size": 13,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#dbe6f1",
+   "contrast": 14,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Team",
+   "chars": 4,
+   "overflow": false
+  },
+  {
+   "id": 9,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 0,
+    "y": 237,
+    "w": 239,
+    "h": 32
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#9ca3af",
+   "bg": "#f9fafb",
+   "contrast": 2.4,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Requests",
+   "chars": 8,
+   "overflow": false
+  },
+  {
+   "id": 10,
+   "role": "text",
+   "tag": "a",
+   "box": {
+    "x": 0,
+    "y": 269,
+    "w": 239,
+    "h": 35
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#f9fafb",
+   "contrast": 9.9,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Cap Uplifts",
+   "chars": 11,
+   "overflow": false
+  },
+  {
+   "id": 11,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 264,
+    "y": 119,
+    "w": 37,
+    "h": 37
+   },
+   "font": {
+    "size": 13,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Spend",
+   "chars": 5,
+   "overflow": false
+  },
+  {
+   "id": 12,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 325,
+    "y": 119,
+    "w": 39,
+    "h": 37
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "People",
+   "chars": 6,
+   "overflow": false
+  },
+  {
+   "id": 13,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 388,
+    "y": 119,
+    "w": 51,
+    "h": 37
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Requests",
+   "chars": 8,
+   "overflow": false
+  },
+  {
+   "id": 14,
+   "role": "text",
+   "tag": "p",
+   "box": {
+    "x": 264,
+    "y": 169,
+    "w": 912,
+    "h": 17
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "August 2026 · 28 of 31 days elapsed · Envelope $4,800 for the month",
+   "chars": 67,
+   "overflow": false
+  },
+  {
+   "id": 15,
+   "role": "text",
+   "tag": "b",
+   "box": {
+    "x": 282,
+    "y": 210,
+    "w": 518,
+    "h": 17
+   },
+   "font": {
+    "size": 13,
+    "weight": "700",
+    "family": "Segoe UI"
+   },
+   "color": "#92400e",
+   "bg": "#fffbeb",
+   "contrast": 6.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "▲ Spend to date $3,412.60 (71.1% of envelope) — Will breach by 30 Aug at this pace",
+   "chars": 82,
+   "overflow": false
+  },
+  {
+   "id": 16,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 282,
+    "y": 228,
+    "w": 879,
+    "h": 17
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#fffbeb",
+   "contrast": 4.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Spend to date: $3,412.60 of $4,800 envelope",
+   "chars": 43,
+   "overflow": false
+  },
+  {
+   "id": 17,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 277,
+    "y": 284,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Spend to date",
+   "chars": 13,
+   "overflow": false
+  },
+  {
+   "id": 18,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 277,
+    "y": 304,
+    "w": 148,
+    "h": 38
+   },
+   "font": {
+    "size": 26,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "$3,412.60",
+   "chars": 9,
+   "overflow": false
+  },
+  {
+   "id": 19,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 277,
+    "y": 343,
+    "w": 148,
+    "h": 35
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "of $4,800 — 71.1% of envelope",
+   "chars": 29,
+   "overflow": false
+  },
+  {
+   "id": 20,
+   "role": "shape",
+   "tag": "i",
+   "box": {
+    "x": 277,
+    "y": 386,
+    "w": 100,
+    "h": 10
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#374151",
+   "contrast": 1.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "",
+   "chars": 0
+  },
+  {
+   "id": 21,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 277,
+    "y": 404,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#9ca3af",
+   "bg": "#ffffff",
+   "contrast": 2.5,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "envelope $4,800 · 71.1% used",
+   "chars": 28,
+   "overflow": false
+  },
+  {
+   "id": 22,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 461,
+    "y": 284,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Headroom",
+   "chars": 8,
+   "overflow": false
+  },
+  {
+   "id": 23,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 461,
+    "y": 304,
+    "w": 148,
+    "h": 38
+   },
+   "font": {
+    "size": 26,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "$1,387.40",
+   "chars": 9,
+   "overflow": false
+  },
+  {
+   "id": 24,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 461,
+    "y": 343,
+    "w": 148,
+    "h": 17
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "28.9% of $4,800 remaining",
+   "chars": 25,
+   "overflow": false
+  },
+  {
+   "id": 25,
+   "role": "sparkline",
+   "tag": "svg",
+   "box": {
+    "x": 461,
+    "y": 369,
+    "w": 120,
+    "h": 22
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "",
+   "labels": 0,
+   "marks": 1,
+   "paints": 1,
+   "alt": ""
+  },
+  {
+   "id": 26,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 461,
+    "y": 404,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#9ca3af",
+   "bg": "#ffffff",
+   "contrast": 2.5,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "envelope this month",
+   "chars": 19,
+   "overflow": false
+  },
+  {
+   "id": 27,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 646,
+    "y": 284,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Daily average",
+   "chars": 13,
+   "overflow": false
+  },
+  {
+   "id": 28,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 646,
+    "y": 304,
+    "w": 148,
+    "h": 38
+   },
+   "font": {
+    "size": 26,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "$121.88",
+   "chars": 7,
+   "overflow": false
+  },
+  {
+   "id": 29,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 646,
+    "y": 343,
+    "w": 148,
+    "h": 17
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Fcst Δ vs EOM +$366",
+   "chars": 19,
+   "overflow": false
+  },
+  {
+   "id": 30,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 646,
+    "y": 369,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#9ca3af",
+   "bg": "#ffffff",
+   "contrast": 2.5,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "MTD / days elapsed",
+   "chars": 18,
+   "overflow": false
+  },
+  {
+   "id": 31,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 830,
+    "y": 284,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Util%",
+   "chars": 5,
+   "overflow": false
+  },
+  {
+   "id": 32,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 830,
+    "y": 304,
+    "w": 148,
+    "h": 38
+   },
+   "font": {
+    "size": 26,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "71.1%",
+   "chars": 5,
+   "overflow": false
+  },
+  {
+   "id": 33,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 830,
+    "y": 343,
+    "w": 148,
+    "h": 17
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "of envelope used",
+   "chars": 16,
+   "overflow": false
+  },
+  {
+   "id": 34,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 830,
+    "y": 369,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#9ca3af",
+   "bg": "#ffffff",
+   "contrast": 2.5,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "$3,412.60 / $4,800",
+   "chars": 18,
+   "overflow": false
+  },
+  {
+   "id": 35,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 1015,
+    "y": 284,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Members",
+   "chars": 7,
+   "overflow": false
+  },
+  {
+   "id": 36,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 1015,
+    "y": 304,
+    "w": 148,
+    "h": 38
+   },
+   "font": {
+    "size": 26,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "12",
+   "chars": 2,
+   "overflow": false
+  },
+  {
+   "id": 37,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 1015,
+    "y": 343,
+    "w": 148,
+    "h": 17
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "+2 since July",
+   "chars": 13,
+   "overflow": false
+  },
+  {
+   "id": 38,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 1015,
+    "y": 369,
+    "w": 148,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#9ca3af",
+   "bg": "#ffffff",
+   "contrast": 2.5,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "key holders in Market Risk",
+   "chars": 26,
+   "overflow": false
+  },
+  {
+   "id": 39,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 264,
+    "y": 463,
+    "w": 560,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Spend by day · 1 to 28 Aug · total $3,412.60",
+   "chars": 44,
+   "overflow": false
+  },
+  {
+   "id": 40,
+   "role": "graphic",
+   "tag": "svg",
+   "box": {
+    "x": 264,
+    "y": 487,
+    "w": 560,
+    "h": 200
+   },
+   "font": {
+    "size": 10,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "$200 $130 $60 1 Aug 15 Aug 28 Aug",
+   "labels": 6,
+   "marks": 38,
+   "paints": 3,
+   "alt": ""
+  },
+  {
+   "id": 41,
+   "role": "text",
+   "tag": "p",
+   "box": {
+    "x": 264,
+    "y": 698,
+    "w": 560,
+    "h": 35
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#6b7280",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "How to read this chart: each bar is one day's spend in dollars; the dashed red line is the envelope divided by the days in the month; taller bars mean more was ",
+   "chars": 204,
+   "overflow": false
+  },
+  {
+   "id": 42,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 848,
+    "y": 463,
+    "w": 360,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Spend by model",
+   "chars": 14,
+   "overflow": false
+  },
+  {
+   "id": 43,
+   "role": "graphic",
+   "tag": "svg",
+   "box": {
+    "x": 848,
+    "y": 571,
+    "w": 130,
+    "h": 130
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "",
+   "labels": 0,
+   "marks": 7,
+   "paints": 7,
+   "alt": ""
+  },
+  {
+   "id": 44,
+   "role": "table",
+   "tag": "table",
+   "box": {
+    "x": 992,
+    "y": 487,
+    "w": 210,
+    "h": 298
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Model | Share",
+   "columns": [
+    {
+     "header": "Model",
+     "width": 120,
+     "align": "left"
+    },
+    {
+     "header": "Share",
+     "width": 90,
+     "align": "right"
+    }
+   ],
+   "rows": 7,
+   "sampleRow": [
+    "claude-sonnet-4-5",
+    "58.2%"
+   ],
+   "bars": 0
+  },
+  {
+   "id": 45,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 848,
+    "y": 801,
+    "w": 360,
+    "h": 16
+   },
+   "font": {
+    "size": 11,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Insights",
+   "chars": 8,
+   "overflow": false
+  },
+  {
+   "id": 46,
+   "role": "graphic",
+   "tag": "svg",
+   "box": {
+    "x": 848,
+    "y": 837,
+    "w": 40,
+    "h": 40
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "",
+   "labels": 0,
+   "marks": 1,
+   "paints": 1,
+   "alt": ""
+  },
+  {
+   "id": 47,
+   "role": "graphic",
+   "tag": "svg",
+   "box": {
+    "x": 916,
+    "y": 837,
+    "w": 40,
+    "h": 40
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "",
+   "labels": 0,
+   "marks": 2,
+   "paints": 1,
+   "alt": ""
+  },
+  {
+   "id": 48,
+   "role": "graphic",
+   "tag": "svg",
+   "box": {
+    "x": 984,
+    "y": 837,
+    "w": 40,
+    "h": 40
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "",
+   "labels": 0,
+   "marks": 2,
+   "paints": 1,
+   "alt": ""
+  },
+  {
+   "id": 49,
+   "role": "graphic",
+   "tag": "svg",
+   "box": {
+    "x": 1052,
+    "y": 837,
+    "w": 40,
+    "h": 40
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "",
+   "labels": 0,
+   "marks": 2,
+   "paints": 1,
+   "alt": ""
+  },
+  {
+   "id": 50,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 264,
+    "y": 905,
+    "w": 113,
+    "h": 17
+   },
+   "font": {
+    "size": 11,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#374151",
+   "bg": "#ffffff",
+   "contrast": 10.3,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Members · August",
+   "chars": 16,
+   "overflow": false
+  },
+  {
+   "id": 51,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 1101,
+    "y": 905,
+    "w": 75,
+    "h": 17
+   },
+   "font": {
+    "size": 12,
+    "weight": "600",
+    "family": "Segoe UI"
+   },
+   "color": "#dc2626",
+   "bg": "#ffffff",
+   "contrast": 4.8,
+   "interactive": true,
+   "cursor": "pointer",
+   "align": "start",
+   "text": "Export CSV",
+   "chars": 10,
+   "overflow": false
+  },
+  {
+   "id": 52,
+   "role": "table",
+   "tag": "table",
+   "box": {
+    "x": 264,
+    "y": 930,
+    "w": 940,
+    "h": 300
+   },
+   "font": {
+    "size": 13,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#111827",
+   "bg": "#ffffff",
+   "contrast": 17.7,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Name | Role | Spend | Currency | Share | Status | Calls | Main model",
+   "columns": [
+    {
+     "header": "Name",
+     "width": 170,
+     "align": "left"
+    },
+    {
+     "header": "Role",
+     "width": 150,
+     "align": "left"
+    },
+    {
+     "header": "Spend",
+     "width": 100,
+     "align": "right"
+    },
+    {
+     "header": "Currency",
+     "width": 90,
+     "align": "left"
+    },
+    {
+     "header": "Share",
+     "width": 90,
+     "align": "right"
+    },
+    {
+     "header": "Status",
+     "width": 120,
+     "align": "left"
+    },
+    {
+     "header": "Calls",
+     "width": 80,
+     "align": "right"
+    },
+    {
+     "header": "Main model",
+     "width": 140,
+     "align": "left"
+    }
+   ],
+   "rows": 7,
+   "sampleRow": [
+    "Chris Dane",
+    "Quant analyst",
+    "$892.40",
+    "USD",
+    "26.2%",
+    "Breached",
+    "14,619",
+    "claude-sonnet-4-5"
+   ],
+   "bars": 0
+  },
+  {
+   "id": 53,
+   "role": "text",
+   "tag": "span",
+   "box": {
+    "x": 264,
+    "y": 1240,
+    "w": 66,
+    "h": 29
+   },
+   "font": {
+    "size": 12,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#ffffff",
+   "bg": "#366092",
+   "contrast": 6.5,
+   "interactive": true,
+   "cursor": "pointer",
+   "align": "start",
+   "text": "Submit",
+   "chars": 6,
+   "overflow": false
+  },
+  {
+   "id": 54,
+   "role": "text",
+   "tag": "div",
+   "box": {
+    "x": 264,
+    "y": 1286,
+    "w": 912,
+    "h": 25
+   },
+   "font": {
+    "size": 9,
+    "weight": "400",
+    "family": "Segoe UI"
+   },
+   "color": "#b0b4ba",
+   "bg": "#f3f4f6",
+   "contrast": 1.9,
+   "interactive": false,
+   "cursor": "auto",
+   "align": "start",
+   "text": "Figures exclude cached tokens and reflect list prices at time of call; see methodology. Envelope share lines are indicative.",
+   "chars": 124,
+   "overflow": false
+  }
+ ],
+ "groups": [
+  {
+   "gid": "G1",
+   "box": {
+    "x": 0,
+    "y": 103,
+    "w": 240,
+    "h": 1240
+   },
+   "members": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "bordered": false,
+   "tinted": true,
+   "bg": "#f9fafb",
+   "radius": "0px"
+  },
+  {
+   "gid": "G2",
+   "box": {
+    "x": 264,
+    "y": 199,
+    "w": 912,
+    "h": 58
+   },
+   "members": [
+    15,
+    16
+   ],
+   "bordered": true,
+   "tinted": true,
+   "bg": "#fffbeb",
+   "radius": "0px"
+  },
+  {
+   "gid": "G3",
+   "box": {
+    "x": 264,
+    "y": 273,
+    "w": 174,
+    "h": 158
+   },
+   "members": [
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "bordered": true,
+   "tinted": false,
+   "bg": null,
+   "radius": "6px"
+  },
+  {
+   "gid": "G4",
+   "box": {
+    "x": 448,
+    "y": 273,
+    "w": 174,
+    "h": 158
+   },
+   "members": [
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "bordered": true,
+   "tinted": false,
+   "bg": null,
+   "radius": "6px"
+  },
+  {
+   "gid": "G5",
+   "box": {
+    "x": 633,
+    "y": 273,
+    "w": 174,
+    "h": 158
+   },
+   "members": [
+    27,
+    28,
+    29,
+    30
+   ],
+   "bordered": true,
+   "tinted": false,
+   "bg": null,
+   "radius": "6px"
+  },
+  {
+   "gid": "G6",
+   "box": {
+    "x": 817,
+    "y": 273,
+    "w": 174,
+    "h": 158
+   },
+   "members": [
+    31,
+    32,
+    33,
+    34
+   ],
+   "bordered": true,
+   "tinted": false,
+   "bg": null,
+   "radius": "6px"
+  },
+  {
+   "gid": "G7",
+   "box": {
+    "x": 1002,
+    "y": 273,
+    "w": 174,
+    "h": 158
+   },
+   "members": [
+    35,
+    36,
+    37,
+    38
+   ],
+   "bordered": true,
+   "tinted": false,
+   "bg": null,
+   "radius": "6px"
+  }
+ ],
+ "measures": {
+  "numbersWithSeveralHomes": [
+   {
+    "number": "$4,800",
+    "homes": [
+     14,
+     16,
+     19,
+     21,
+     24,
+     34
+    ]
+   },
+   {
+    "number": "$3,412.60",
+    "homes": [
+     15,
+     16,
+     18,
+     34,
+     39
+    ]
+   },
+   {
+    "number": "71.1%",
+    "homes": [
+     15,
+     19,
+     21,
+     32
+    ]
+   },
+   {
+    "number": "28",
+    "homes": [
+     14,
+     39,
+     40
+    ]
+   }
+  ],
+  "typeStyles": [
+   {
+    "sizeWeight": "11/400",
+    "count": 13
+   },
+   {
+    "sizeWeight": "13/400",
+    "count": 13
+   },
+   {
+    "sizeWeight": "12/400",
+    "count": 10
+   },
+   {
+    "sizeWeight": "26/600",
+    "count": 5
+   },
+   {
+    "sizeWeight": "11/600",
+    "count": 4
+   },
+   {
+    "sizeWeight": "13/600",
+    "count": 2
+   },
+   {
+    "sizeWeight": "20/600",
+    "count": 1
+   },
+   {
+    "sizeWeight": "14/600",
+    "count": 1
+   },
+   {
+    "sizeWeight": "14/700",
+    "count": 1
+   },
+   {
+    "sizeWeight": "13/700",
+    "count": 1
+   },
+   {
+    "sizeWeight": "10/400",
+    "count": 1
+   },
+   {
+    "sizeWeight": "12/600",
+    "count": 1
+   },
+   {
+    "sizeWeight": "9/400",
+    "count": 1
+   }
+  ],
+  "textColours": [
+   {
+    "colour": "#6b7280",
+    "count": 13
+   },
+   {
+    "colour": "#111827",
+    "count": 12
+   },
+   {
+    "colour": "#374151",
+    "count": 11
+   },
+   {
+    "colour": "#9ca3af",
+    "count": 6
+   },
+   {
+    "colour": "#366092",
+    "count": 1
+   },
+   {
+    "colour": "#92400e",
+    "count": 1
+   },
+   {
+    "colour": "#dc2626",
+    "count": 1
+   },
+   {
+    "colour": "#ffffff",
+    "count": 1
+   },
+   {
+    "colour": "#b0b4ba",
+    "count": 1
+   }
+  ],
+  "lowContrast": [
+   {
+    "id": 9,
+    "text": "Requests",
+    "contrast": 2.4,
+    "needed": 4.5,
+    "size": 11
+   },
+   {
+    "id": 21,
+    "text": "envelope $4,800 · 71.1% used",
+    "contrast": 2.5,
+    "needed": 4.5,
+    "size": 11
+   },
+   {
+    "id": 26,
+    "text": "envelope this month",
+    "contrast": 2.5,
+    "needed": 4.5,
+    "size": 11
+   },
+   {
+    "id": 30,
+    "text": "MTD / days elapsed",
+    "contrast": 2.5,
+    "needed": 4.5,
+    "size": 11
+   },
+   {
+    "id": 34,
+    "text": "$3,412.60 / $4,800",
+    "contrast": 2.5,
+    "needed": 4.5,
+    "size": 11
+   },
+   {
+    "id": 38,
+    "text": "key holders in Market Risk",
+    "contrast": 2.5,
+    "needed": 4.5,
+    "size": 11
+   },
+   {
+    "id": 54,
+    "text": "Figures exclude cached tokens and reflec",
+    "contrast": 1.9,
+    "needed": 4.5,
+    "size": 9
+   }
+  ],
+  "smallText": [
+   {
+    "id": 40,
+    "text": "$200 $130 $60 1 Aug 15 Aug 28 Aug",
+    "size": 10
+   },
+   {
+    "id": 54,
+    "text": "Figures exclude cached tokens and reflec",
+    "size": 9
+   }
+  ],
+  "overflow": [],
+  "distinctLeftEdges": 19,
+  "overlaps": [],
+  "contentRightEdge": 1416,
+  "contentBottomEdge": 1311,
+  "emptyRightOfContent": 24,
+  "inkShare": 37,
+  "counts": {
+   "elements": 54,
+   "text": 44,
+   "headings": 0,
+   "controls": 0,
+   "graphics": 6,
+   "sparklines": 1,
+   "shapes": 1,
+   "tables": 2,
+   "groups": 7
+  }
+ },
+ "screen": "team-spend"
+}

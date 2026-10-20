@@ -1,0 +1,29 @@
+{
+ "screen": "team-spend",
+ "pass": {"found_at_least": 11, "false_alarms_at_most": 1},
+ "faults": [
+  {"id": "F1", "what": "One figure ($3,412.60, with $4,800 and 71.1%) shown in five places: alert, alert sub-line, tile, Util tile foot, chart heading", "lenses": ["1","2"], "elements": [{"text": "$3,412.60"}, {"text": "71.1%"}], "claim_any": ["home", "repeat", "duplicate", "same", "again", "redundan", "twice", "times", "places", "already", "elsewhere"]},
+  {"id": "F2", "what": "A seven-slice donut of model shares beside a table of the same shares", "lenses": ["1","2","3"], "elements": [{"role": "graphic", "w": 130}, {"text": "Model | Share"}]},
+  {"id": "F3", "what": "Bar chart baseline at $60, not zero", "lenses": ["4","2"], "elements": [{"role": "graphic", "w": 560}], "claim_any": ["baseline", "zero", "$60", "truncat", "axis", "start", "exaggerat", "lie"]},
+  {"id": "F4", "what": "Gradient fills, drop shadows and nine gridlines on the bars", "lenses": ["2","6"], "elements": [{"role": "graphic", "w": 560}], "claim_any": ["gradient", "shadow", "gridline", "grid line", "junk", "3d", "decorat"]},
+  {"id": "F5", "what": "A sparkline of a constant (flat line) in the Headroom tile", "lenses": ["2","1"], "elements": [{"role": "sparkline"}]},
+  {"id": "F6", "what": "A how-to-read paragraph under the chart", "lenses": ["2","5"], "elements": [{"text": "How to read this chart"}]},
+  {"id": "F7", "what": "Red used for the Export CSV link while red means breached in the table", "lenses": ["3"], "elements": [{"text": "Export CSV"}], "claim_any": ["red", "colour", "color", "danger", "breach"]},
+  {"id": "F8", "what": "9 px footnote at 1.9:1 contrast", "lenses": ["6"], "elements": [{"text": "Figures exclude cached tokens"}]},
+  {"id": "F9", "what": "A Currency column reading USD in every row", "lenses": ["2","1"], "elements": [{"text": "Name | Role | Spend | Currency"}], "claim_any": ["currency", "usd"]},
+  {"id": "F10", "what": "Jargon labels: Fcst Δ vs EOM, Util%, MTD", "lenses": ["5"], "elements": [{"text": "Fcst"}, {"text": "Util%"}, {"text": "MTD"}]},
+  {"id": "F11", "what": "Last updated 'recently', no date or time", "lenses": ["4","5"], "elements": [{"text": "Last updated recently"}]},
+  {"id": "F12", "what": "An Insights strip of four icons carrying no data", "lenses": ["1","2","6"], "elements": [{"role": "graphic", "w": 40}, {"text": "Insights"}]},
+  {"id": "F13", "what": "Content held to 960 px with the right third of the page empty while the tiles are cramped", "lenses": ["6"], "elements": ["page"], "claim_any": ["empty", "right", "narrow", "width", "cramp", "space", "960", "third", "hole", "unused"]},
+  {"id": "F14", "what": "Shares in the members table sum to 100.9%", "lenses": ["4"], "elements": [{"text": "Name | Role | Spend | Currency"}], "claim_any": ["100.9", "sum", "add up", "adds", "add to", "total"]},
+  {"id": "F15", "what": "A Submit button with no object", "lenses": ["5","1"], "elements": [{"text": "Submit"}]}
+ ],
+ "decoys": [
+  {"id": "D1", "what": "Members tile: a count with its comparison (+2 since July)", "elements": [{"text": "Members", "role": "text", "h": 16}, {"text": "+2 since July"}, {"text_is": "12"}]},
+  {"id": "D2", "what": "Table heading with its period: Members · August", "elements": [{"text": "Members · August"}]},
+  {"id": "D3", "what": "The active tab, Spend", "elements": [{"text_is": "Spend", "h": 37}]},
+  {"id": "D4", "what": "The active navigation entry", "elements": [{"text_is": "Team", "h": 35}]},
+  {"id": "D5", "what": "Headroom figure and its context line", "elements": [{"text": "$1,387.40"}, {"text": "28.9% of $4,800 remaining"}]},
+  {"id": "D6", "what": "The product name in the banner", "elements": [{"text": "Charon", "role": "text"}]}
+ ]
+}

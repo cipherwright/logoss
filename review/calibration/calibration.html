@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Charon · Team spend</title>
+<style>
+:root{--brand:#366092;--ink:#111827;--measure:#374151;--muted:#6b7280;--faint:#9ca3af;--border:#e5e7eb;--active:#dbe6f1;--danger:#dc2626;--amber:#f59e0b;--amber-text:#92400e}
+*{box-sizing:border-box}body{margin:0;font:13px/1.45 "Segoe UI",Arial,sans-serif;color:var(--ink);background:#fff;width:1440px}
+.banner{display:flex;justify-content:space-between;align-items:center;padding:14px 24px;border-bottom:1px solid var(--border)}
+.logo{font-size:20px;font-weight:600;color:var(--brand)}.org{font-size:11px;letter-spacing:.08em;color:var(--muted)}
+.pagehead{display:flex;justify-content:space-between;padding:12px 24px;border-bottom:1px solid var(--border)}.pagehead .t{font-size:14px;font-weight:600}.pagehead .r{font-size:12px;color:var(--muted)}
+.wrap{display:flex}.side{width:240px;background:#f9fafb;border-right:1px solid var(--border);min-height:1240px}
+.side .who{padding:12px 24px;border-bottom:1px solid var(--border)}.side .who b{display:block;font-size:14px}.side .who span{font-size:11px;color:var(--muted)}
+.side a{display:block;padding:8px 24px;color:var(--measure);text-decoration:none}.side a.on{background:var(--active);color:var(--ink);font-weight:600}
+.side .sec{padding:12px 24px 4px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
+.main{padding:16px 24px;width:960px}
+.tabs{display:flex;gap:24px;border-bottom:1px solid var(--border);margin-bottom:12px}.tabs span{padding:8px 0;color:var(--muted)}.tabs span.on{color:var(--ink);font-weight:600;border-bottom:2px solid var(--ink)}
+.ctx{font-size:12px;color:var(--muted);margin:0 0 12px}
+.alert{border:1px solid #fcd34d;border-left:4px solid var(--amber);background:#fffbeb;padding:10px 14px;margin-bottom:16px}.alert b{color:var(--amber-text)}.alert .sub{font-size:12px;color:var(--muted)}
+.tiles{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-bottom:16px}
+.tile{border:1px solid var(--border);border-radius:6px;padding:10px 12px}.tile .lab{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--measure)}
+.tile .fig{font-size:26px;font-weight:600;margin:4px 0 2px}.tile .ctx2{font-size:12px;color:var(--muted)}.tile .foot{font-size:11px;color:var(--faint);margin-top:8px}
+.bullet{position:relative;height:10px;background:#e5e7eb;margin:8px 0 2px;width:140px}.bullet i{position:absolute;left:0;top:0;bottom:0;background:#374151;width:71.1%}.bullet em{position:absolute;top:-3px;bottom:-3px;width:2px;background:#111827;left:100%}
+.h{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--measure);font-weight:600;margin:16px 0 8px}
+.row2{display:grid;grid-template-columns:560px 360px;gap:24px;align-items:start}
+.legend{font-size:12px;color:var(--muted);margin:6px 0 0}
+table{border-collapse:collapse;table-layout:fixed}th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500;text-align:left;padding:8px;border-bottom:1px solid var(--border)}
+td{padding:9px 8px;border-bottom:1px solid #f3f4f6;white-space:nowrap}.num{text-align:right}tr.total td{font-weight:600;border-top:1px solid var(--border)}
+.badge{display:inline-block;font-size:11px;padding:2px 8px;border-radius:10px}.badge.red{background:#fee2e2;color:var(--danger)}.badge.amber{background:#fef3c7;color:var(--amber-text)}
+.export{color:var(--danger);font-size:12px;text-decoration:underline;cursor:pointer}
+.insights{display:flex;gap:28px;align-items:center;padding:12px 0}
+.btn{display:inline-block;background:var(--brand);color:#fff;padding:6px 14px;border-radius:4px;font-size:12px;cursor:pointer;margin-top:10px}
+.foot9{font-size:9px;color:#b0b4ba;background:#f3f4f6;padding:6px 8px;margin-top:16px}
+</style></head><body>
+<div class="banner"><span class="logo">Charon</span><span class="org">NOMURA</span></div>
+<div class="pagehead"><span class="t">Market Risk</span><span class="r">Last updated recently · Priya Nair</span></div>
+<div class="wrap">
+<div class="side"><div class="who"><b>Risk</b><span>Market Risk</span></div><a>Overview</a><a class="on">Team</a><div class="sec">Requests</div><a>Cap Uplifts</a></div>
+<div class="main">
+<div class="tabs"><span class="on">Spend</span><span>People</span><span>Requests</span></div>
+<p class="ctx">August 2026 · 28 of 31 days elapsed · Envelope $4,800 for the month</p>
+<div class="alert"><b>▲ Spend to date $3,412.60 (71.1% of envelope) — Will breach by 30 Aug at this pace</b><div class="sub">Spend to date: $3,412.60 of $4,800 envelope</div></div>
+
+<div class="tiles">
+ <div class="tile"><div class="lab">Spend to date</div><div class="fig">$3,412.60</div><div class="ctx2">of $4,800 — 71.1% of envelope</div><div class="bullet"><i></i><em></em></div><div class="foot">envelope $4,800 · 71.1% used</div></div>
+ <div class="tile"><div class="lab">Headroom</div><div class="fig">$1,387.40</div><div class="ctx2">28.9% of $4,800 remaining</div>
+   <svg width="120" height="22" style="margin-top:8px"><polyline points="2,11 20,11 38,11 56,11 74,11 92,11 110,11 118,11" fill="none" stroke="#374151" stroke-width="1.5"/></svg>
+   <div class="foot">envelope this month</div></div>
+ <div class="tile"><div class="lab">Daily average</div><div class="fig">$121.88</div><div class="ctx2">Fcst Δ vs EOM +$366</div><div class="foot">MTD / days elapsed</div></div>
+ <div class="tile"><div class="lab">Util%</div><div class="fig">71.1%</div><div class="ctx2">of envelope used</div><div class="foot">$3,412.60 / $4,800</div></div>
+ <div class="tile"><div class="lab">Members</div><div class="fig">12</div><div class="ctx2">+2 since July</div><div class="foot">key holders in Market Risk</div></div>
+</div>
+
+<div class="row2">
+ <div>
+  <div class="h">Spend by day · 1 to 28 Aug · total $3,412.60</div>
+  <svg width="560" height="200" font-family="Segoe UI,Arial" font-size="10">
+   <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fb3e0"/><stop offset="1" stop-color="#1f4e86"/></linearGradient>
+   <filter id="s"><feDropShadow dx="2" dy="2" stdDeviation="1.5" flood-color="#000" flood-opacity=".35"/></filter></defs>
+   <g stroke="#9ca3af" stroke-width="1">
+    <line x1="40" y1="20" x2="550" y2="20"/><line x1="40" y1="40" x2="550" y2="40"/><line x1="40" y1="60" x2="550" y2="60"/><line x1="40" y1="80" x2="550" y2="80"/><line x1="40" y1="100" x2="550" y2="100"/><line x1="40" y1="120" x2="550" y2="120"/><line x1="40" y1="140" x2="550" y2="140"/><line x1="40" y1="160" x2="550" y2="160"/><line x1="40" y1="180" x2="550" y2="180"/>
+   </g>
+   <text x="6" y="24" fill="#6b7280">$200</text><text x="6" y="104" fill="#6b7280">$130</text><text x="6" y="184" fill="#6b7280">$60</text>
+   <g fill="url(#g)" filter="url(#s)">
+    <rect x="44" y="118" width="14" height="62"/><rect x="62" y="96" width="14" height="84"/><rect x="80" y="130" width="14" height="50"/><rect x="98" y="88" width="14" height="92"/><rect x="116" y="150" width="14" height="30"/><rect x="134" y="170" width="14" height="10"/><rect x="152" y="172" width="14" height="8"/><rect x="170" y="102" width="14" height="78"/><rect x="188" y="80" width="14" height="100"/><rect x="206" y="110" width="14" height="70"/><rect x="224" y="74" width="14" height="106"/><rect x="242" y="124" width="14" height="56"/><rect x="260" y="168" width="14" height="12"/><rect x="278" y="174" width="14" height="6"/><rect x="296" y="92" width="14" height="88"/><rect x="314" y="106" width="14" height="74"/><rect x="332" y="66" width="14" height="114"/><rect x="350" y="98" width="14" height="82"/><rect x="368" y="136" width="14" height="44"/><rect x="386" y="166" width="14" height="14"/><rect x="404" y="176" width="14" height="4"/><rect x="422" y="90" width="14" height="90"/><rect x="440" y="84" width="14" height="96"/><rect x="458" y="112" width="14" height="68"/><rect x="476" y="70" width="14" height="110"/><rect x="494" y="100" width="14" height="80"/><rect x="512" y="144" width="14" height="36"/><rect x="530" y="128" width="14" height="52"/>
+   </g>
+   <line x1="40" y1="112" x2="550" y2="112" stroke="#dc2626" stroke-dasharray="4 3"/>
+   <text x="44" y="196" fill="#6b7280">1 Aug</text><text x="290" y="196" fill="#6b7280">15 Aug</text><text x="520" y="196" fill="#6b7280">28 Aug</text>
+  </svg>
+  <p class="legend">How to read this chart: each bar is one day's spend in dollars; the dashed red line is the envelope divided by the days in the month; taller bars mean more was spent that day. Weekends are the short bars.</p>
+ </div>
+ <div>
+  <div class="h">Spend by model</div>
+  <div style="display:flex;gap:14px;align-items:center">
+   <svg width="130" height="130" viewBox="0 0 42 42">
+    <circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#366092" stroke-width="10" stroke-dasharray="58.2 41.8" stroke-dashoffset="25"/>
+    <circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#f59e0b" stroke-width="10" stroke-dasharray="21.4 78.6" stroke-dashoffset="-33.2"/>
+    <circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#dc2626" stroke-width="10" stroke-dasharray="9.1 90.9" stroke-dashoffset="-54.6"/>
+    <circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#10b981" stroke-width="10" stroke-dasharray="5.2 94.8" stroke-dashoffset="-63.7"/>
+    <circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#8b5cf6" stroke-width="10" stroke-dasharray="3.1 96.9" stroke-dashoffset="-68.9"/>
+    <circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#ec4899" stroke-width="10" stroke-dasharray="2.0 98" stroke-dashoffset="-72"/>
+    <circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#6b7280" stroke-width="10" stroke-dasharray="1.0 99" stroke-dashoffset="-74"/>
+   </svg>
+   <table style="width:210px"><colgroup><col style="width:120px"><col style="width:90px"></colgroup>
+    <tr><th>Model</th><th class="num">Share</th></tr>
+    <tr><td>claude-sonnet-4-5</td><td class="num">58.2%</td></tr><tr><td>claude-haiku-3-5</td><td class="num">21.4%</td></tr><tr><td>claude-opus-4</td><td class="num">9.1%</td></tr>
+    <tr><td>cohere.embed-v4.0</td><td class="num">5.2%</td></tr><tr><td>titan-text-g1</td><td class="num">3.1%</td></tr><tr><td>llama-3-70b</td><td class="num">2.0%</td></tr><tr><td>other</td><td class="num">1.0%</td></tr>
+   </table>
+  </div>
+  <div class="h">Insights</div>
+  <div class="insights">
+   <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#366092" stroke-width="1.6"><path d="M12 2l3 7h7l-5.5 4 2 7L12 16l-6.5 4 2-7L2 9h7z"/></svg>
+   <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#f59e0b" stroke-width="1.6"><path d="M5 19l4-4 3 3 7-8"/><circle cx="19" cy="10" r="1.5"/></svg>
+   <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#10b981" stroke-width="1.6"><path d="M12 22c4-4 6-8 6-12a6 6 0 10-12 0c0 4 2 8 6 12z"/><circle cx="12" cy="10" r="2"/></svg>
+   <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#8b5cf6" stroke-width="1.6"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 10h18M8 4v6"/></svg>
+  </div>
+ </div>
+</div>
+
+<div class="h" style="display:flex;justify-content:space-between"><span>Members · August</span><span class="export">Export CSV</span></div>
+<table style="width:940px"><colgroup><col style="width:170px"><col style="width:150px"><col style="width:100px"><col style="width:90px"><col style="width:90px"><col style="width:120px"><col style="width:80px"><col style="width:140px"></colgroup>
+ <tr><th>Name</th><th>Role</th><th class="num">Spend</th><th>Currency</th><th class="num">Share</th><th>Status</th><th class="num">Calls</th><th>Main model</th></tr>
+ <tr><td>Chris Dane</td><td>Quant analyst</td><td class="num">$892.40</td><td>USD</td><td class="num">26.2%</td><td><span class="badge red">Breached</span></td><td class="num">14,619</td><td>claude-sonnet-4-5</td></tr>
+ <tr><td>Priya Nair</td><td>Risk manager</td><td class="num">$611.20</td><td>USD</td><td class="num">17.9%</td><td><span class="badge amber">Approaching</span></td><td class="num">8,102</td><td>claude-sonnet-4-5</td></tr>
+ <tr><td>Tom Okafor</td><td>Developer</td><td class="num">$540.00</td><td>USD</td><td class="num">15.8%</td><td>Normal</td><td class="num">11,340</td><td>claude-haiku-3-5</td></tr>
+ <tr><td>Mei Lin</td><td>Quant analyst</td><td class="num">$488.90</td><td>USD</td><td class="num">14.3%</td><td>Normal</td><td class="num">6,230</td><td>claude-opus-4</td></tr>
+ <tr><td>Sam Reyes</td><td>Developer</td><td class="num">$402.10</td><td>USD</td><td class="num">11.8%</td><td>Normal</td><td class="num">9,870</td><td>claude-sonnet-4-5</td></tr>
+ <tr><td>7 others</td><td>–</td><td class="num">$478.00</td><td>USD</td><td class="num">14.9%</td><td>Normal</td><td class="num">5,412</td><td>mixed</td></tr>
+ <tr class="total"><td>Total (12)</td><td></td><td class="num">$3,412.60</td><td>USD</td><td class="num">100.9%</td><td></td><td class="num">55,573</td><td></td></tr>
+</table>
+<span class="btn">Submit</span>
+<div class="foot9">Figures exclude cached tokens and reflect list prices at time of call; see methodology. Envelope share lines are indicative.</div>
+</div></div>
+</body></html>

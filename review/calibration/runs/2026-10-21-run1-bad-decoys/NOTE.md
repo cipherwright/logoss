@@ -1,0 +1,1 @@
+Run 1 was scored against the first calibration page, whose decoys D3, D4 and D5 held real faults (a tab named the same as the active sidebar item; a percentage with no base in its tile). The reviewers caught them; the page and key were corrected and run 2 passed. Kept as the record of that correction.

@@ -1,0 +1,10 @@
+# One screen per line: name, a tab, the URL. Lines starting with # are ignored.
+# Every state a reader can reach is a screen: each tab, each drill-down open, each range,
+# each role (log in as each role in a --headed run), and the empty or zero states if reachable.
+# Names appear in the report; keep them short and distinct.
+#
+# overview-cro	http://localhost:3000/overview
+# overview-dept	http://localhost:3000/overview/market-risk
+# myspend	http://localhost:3000/me
+# myspend-day-open	http://localhost:3000/me?day=2026-08-25
+# requests	http://localhost:3000/requests

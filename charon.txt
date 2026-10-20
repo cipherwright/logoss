@@ -1,0 +1,79 @@
+The thought process behind both concepts was to connect Charon from Greek mythology with Charon from John Wick, without making the logos look like direct references to either.
+
+Both interpretations share a central idea: Charon is the guardian of a passage, someone associated with discretion, authority, and the rules of crossing from one world into another.
+
+## Concept A — Controlled Coin Crossing
+
+The idea: Passage comes at a price.
+
+In Greek mythology, Charon is the ferryman who transports souls across the river into the underworld. Traditionally, a coin called an obol is associated with payment for that journey.
+
+The logo incorporates this symbolism through:
+
+- The circular C: Represents both Charon's initial and the ancient coin used to pay for passage.
+- The central gateway: Symbolizes the boundary between two worlds.
+- The red steps: Represent the journey or crossing from one side to another.
+- The open circular structure: Suggests a controlled point of entry rather than a completely closed boundary.
+
+The intention was to create a modern symbol with an ancient story behind it.
+
+Underlying philosophy: Every passage has a threshold, and crossing it carries a responsibility.
+
+## Concept B — Continental Seal
+
+The idea: Authority doesn't need to announce itself.
+
+This concept draws more heavily from Charon's character in John Wick, where he serves as the Continental Hotel's concierge.
+
+He's composed, discreet, exceptionally professional, and operates within an institution governed by strict rules.
+
+The logo reflects these characteristics through:
+
+- The symmetrical architecture: Represents order, discipline, and stability.
+- The central passage: A gateway between two worlds, connecting the mythology and the Continental.
+- The surrounding curved elements: Create the impression of a protective institutional seal or insignia.
+- The red diamond: Acts as a focal point, symbolizing the significance of crossing the threshold.
+- The classical styling: Creates a sense of heritage, quiet authority, and timelessness.
+
+Rather than depicting Charon himself, the logo is intended to feel like an insignia belonging to an institution that Charon would represent.
+
+Underlying philosophy: True authority is exercised through composure, discretion, and an unwavering respect for rules.
+
+## Why these two?
+
+We deliberately selected two different interpretations of the same character.
+
+| Concept A                           | Continental Seal                           |
+| ----------------------------------- | ------------------------------------------ |
+| Rooted primarily in Greek mythology | Rooted primarily in John Wick              |
+| Focuses on the act of passage       | Focuses on the guardian of passage         |
+| Symbolizes payment and crossing     | Symbolizes trust, discretion and authority |
+| More modern and geometric           | More ceremonial and institutional          |
+
+The colours and typography tie them together: black represents authority and restraint, red highlights the threshold or moment of significance, and the classical lettering reinforces the timeless character of the name.
+
+Ultimately, neither logo is meant to depict Charon literally. The intention is for someone unfamiliar with the references to appreciate the design, while someone who understands the name discovers a deeper meaning.
+
+That's what we were trying to achieve with both concepts: a logo that has a story worth telling, rather than just an attractive symbol.
+
+
+
+
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Read C:\<path>\review\README.md and C:\<path>\review\REVIEW.md step 1. Do not run anything else from the runbook yet.
+
+  Task 1: write the screens files. Find every route and every reachable state of the app from its router and its components: each page, each tab, each drill-down or expanded row, each range or filter, each
+  dialog, and the empty or zero states where a URL or parameter reaches them. Group them by role. Write one file per role: screens-keyholder.txt, screens-head.txt, screens-cro.txt, screens-riskai.txt, in the
+  format of screens.txt (name<TAB>url, name starting with the role, e.g. head-overview). Use the URLs of the running app on this machine. If a state cannot be reached by URL alone, list it at the bottom under
+  "# not reachable by URL" with how to reach it.
+
+  Task 2: correct glossary.md. Check every line against the app's own labels and the firm's words: the roles, the status words and their thresholds, the time basis of a day, what a tier is, the model names as
+  the app shows them. Change only what is wrong; keep the file short.
+
+  Then show me both results as lists and stop. I will confirm before the capture runs.
